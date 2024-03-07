@@ -6,4 +6,4 @@ This code implements both an RFID Reading Mode and Writing Mode, selectable by a
 I created this because the example code for the PiicoDev RFID Reader Modules was written in micropython, and these are the cheapest RFID readers available.
 Link: https://core-electronics.com.au/piicodev-rfid-module.html
 
-<img src="piicodev-rfid-module.png" width="350"/>
+<img src="piicodev-rfid-module.jpg" width="350"/>
